@@ -1,0 +1,108 @@
+{
+    "name": "entity_1",
+    "$schema": "https://json-schema.org/draft/2020-12/schema",
+    "description": "",
+    "type": "object",
+    "id": "_EN_j92n85fwnx",
+    "y": 22,
+    "properties": {
+        "name": {
+            "name": "name",
+            "format": "",
+            "type": "string",
+            "description": "",
+            "default": "",
+            "__n__metadata__": {
+                "id": "_Att_a3g9pif09t",
+                "subCategoryType": null,
+                "nullable": false
+            }
+        },
+        "email": {
+            "name": "email",
+            "format": "",
+            "type": "string",
+            "description": "",
+            "default": "",
+            "__n__metadata__": {
+                "id": "_Att_j7jsp63ias",
+                "subCategoryType": null,
+                "nullable": false
+            }
+        },
+        "country": {
+            "name": "country",
+            "format": "",
+            "type": "number",
+            "description": "",
+            "default": "",
+            "__n__metadata__": {
+                "id": "_Att_qsobs6n5of",
+                "subCategoryType": null,
+                "nullable": false,
+                "constraints": {}
+            }
+        },
+        "state": {
+            "name": "state",
+            "format": "",
+            "type": "number",
+            "description": "",
+            "default": "",
+            "__n__metadata__": {
+                "id": "_Att_thxxgak1hx",
+                "subCategoryType": null,
+                "nullable": false,
+                "constraints": {}
+            }
+        },
+        "location": {
+            "name": "location",
+            "format": "",
+            "type": "number",
+            "description": "",
+            "default": "",
+            "__n__metadata__": {
+                "id": "_Att_4crvumitc3",
+                "subCategoryType": null,
+                "nullable": false,
+                "constraints": {}
+            }
+        },
+        "fileinput": {
+            "name": "fileinput",
+            "format": "",
+            "type": "string",
+            "description": "",
+            "default": "",
+            "__n__metadata__": {
+                "id": "_Att_y2swat7grn",
+                "subCategoryType": null,
+                "nullable": false
+            }
+        },
+        "name6": {
+            "name": "name6",
+            "format": "",
+            "type": "string",
+            "description": "",
+            "default": "",
+            "__n__metadata__": {
+                "id": "_Att_crq3vkt0pb",
+                "subCategoryType": null,
+                "nullable": false
+            }
+        }
+    },
+    "required": [
+        "name",
+        "email",
+        "country",
+        "state",
+        "location",
+        "fileinput",
+        "name6"
+    ],
+    "value": "",
+    "x": 177
+}

@@ -1,0 +1,8 @@
+{
+    "/add": {},
+    "/show": {},
+    "/edit": {},
+    "/edit/:id": {},
+    "/delete/:id": {},
+    "/locations": {}
+}
